@@ -6,7 +6,7 @@
 </br>
 
 ## 📱 앱 다운로드
- - 🍏 [PlayStore](https://github.com/sojungpp) </br> 
- - 🍎 [AppStore](https://github.com/sojungpp)
+ - 🍏 [PlayStore](https://play.google.com/store/apps/details?id=com.codepatissier.keki&pli=1) </br> 
+ - 🍎 [AppStore](https://apps.apple.com/kr/app/%EC%BC%80%ED%82%A4/id6446322749)
 
 
